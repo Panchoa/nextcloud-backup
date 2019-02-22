@@ -9,3 +9,6 @@ Le but de ce TP est de mettre en place la sauvegarde de l'application. Cette sau
 
 Il faut aussi bien sauvegarder les fichiers que la base de données afin de permettre une restauration.
 
+##Lancement des scripts
+
+Les scripts se lancent à partir de la machine `Nextcloud`.
